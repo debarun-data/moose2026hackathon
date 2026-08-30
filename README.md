@@ -1,1 +1,1 @@
-# moose2026hackathon
+# moose2026hackathon.ipynb
