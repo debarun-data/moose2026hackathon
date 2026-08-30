@@ -1,5 +1,3 @@
-# moose2026hackathon.ipynb
-
 # MOOSE Hackathon 2026 — Neuromorphic Oscillator
 
 ## Overview
